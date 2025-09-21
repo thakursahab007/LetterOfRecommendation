@@ -12,3 +12,5 @@ To start frontend
 then
 (npm start)
 
+
+screenshots in frontend/screenshots
